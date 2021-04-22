@@ -1,5 +1,5 @@
 # CovidCalculator
-Website:- https://covidcalculator.netlify.app/
+## Website:- https://covidcalculator.netlify.app/
 
 Used to calculate daily recovered cases of covid. <br/>
 
