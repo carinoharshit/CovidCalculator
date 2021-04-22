@@ -1,9 +1,10 @@
 # CovidCalculator
 https://covidcalculator.netlify.app/
 
-Used to calculated daily recovered cases of covid.
-// SYMBOLS USED
-// ACY --> Total Active Cases Yesterday 
-// ACT --> Total Active Cases Today
-// NCT --> New Cases Today
-// RCT --> Recovered Cases Today
+Used to calculate daily recovered cases of covid. <br/>
+
+### SYMBOLS USED <br/>
+// ACY --> Total Active Cases Yesterday <br/>
+// ACT --> Total Active Cases Today <br/>
+// NCT --> New Cases Today <br/>
+// RCT --> Recovered Cases Today <br/>
