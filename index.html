@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel = "stylesheet" href = "style.css">
+        <script type = "text/javascript" src = "app.js"></script>
+    </head>
+    <body>
+        <div class = "container">
+            <h1>COVID CALCULATOR</h1>
+            <div class = "wrapper">
+                <p>Total Active Cases Yesterday?</p>
+                <input type = "text" id = "ACY" placeholder="Enter total yesterday's active cases">
+
+                <p>Total Active Cases Today?</p>
+                <input type = "text" id = "ACT" placeholder="Enter total today's active cases">
+            
+                <p>New Cases Today?</p>
+                <input type = "text" id = "NCT" placeholder="Enter today's new cases">
+                
+                <button onclick="add()">Calculate Recovery</button>
+                <p>Recovered Today:</p>
+                <input id="answer" type="number" style="color:rgb(0, 0, 0); font-weight: bold;">
+            </div>
+        </div>
+    </body>
+</html>
